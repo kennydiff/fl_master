@@ -1,6 +1,6 @@
 # fl_master
 
-A new Flutter project.
+This project is the instructional code for [this video tutorial](https://www.youtube.com/watch?v=TclK5gNM_PM).
 
 ## Getting Started
 
