@@ -1,6 +1,6 @@
 # fl_master
 
-This project is the instructional code for [this video tutorial](https://www.youtube.com/watch?v=TclK5gNM_PM).
+This project is the instructional code for this video tutorial → [🎓📱 FULL Flutter Masterclass: Beginner to Pro](https://www.youtube.com/watch?v=TclK5gNM_PM).
 
 ## Getting Started
 
